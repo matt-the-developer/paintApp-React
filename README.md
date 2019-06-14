@@ -1,2 +1,2 @@
 # paintApp-React
--Paint App using React
+- 🎨 paintApp made with React+Express
