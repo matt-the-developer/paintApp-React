@@ -31,5 +31,23 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "-Paint App using React",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matt-the-developer/paintApp-React.git"
+  },
+  "keywords": [
+    "react",
+    "app",
+    "js"
+  ],
+  "author": "m smith",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/matt-the-developer/paintApp-React/issues"
+  },
+  "homepage": "https://github.com/matt-the-developer/paintApp-React#readme"
 }
