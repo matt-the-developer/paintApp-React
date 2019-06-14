@@ -10,7 +10,7 @@ class Canvas extends Component {
     this.onMouseMove = this.onMouseMove.bind(this);
     this.endPaintEvent = this.endPaintEvent.bind(this);
 
-    this.pusher = new Pusher('PUSHER_KEY', {
+    this.pusher = new Pusher('73267b034c17beabca18', {
       cluster: 'eu',
     });
   }
