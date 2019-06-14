@@ -1,2 +1,2 @@
 # paintApp-React
-- 🎨 paintApp made with React+Express
+- 🎨 paintApp made with React+Express+Pusher
